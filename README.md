@@ -8,3 +8,6 @@ npm start to start the project and nodemon server to start the backend server
 
 ### Screen for profile details
 ![insta2](https://user-images.githubusercontent.com/67358506/133993279-d7dd8ccc-be42-4a57-865b-0dfbd8c86664.PNG)
+
+### Screen for add post 
+![insta3](https://user-images.githubusercontent.com/67358506/133993619-5c1c1f3e-3575-45d1-a548-d5de74afaada.PNG)
